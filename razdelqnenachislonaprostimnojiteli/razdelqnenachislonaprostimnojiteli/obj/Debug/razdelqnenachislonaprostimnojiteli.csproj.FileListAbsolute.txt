@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\razdelqnenachislonaprostimnojiteli\razdelqnenachislonaprostimnojiteli\bin\Debug\razdelqnenachislonaprostimnojiteli.exe.config
+c:\users\user\documents\visual studio 2015\Projects\razdelqnenachislonaprostimnojiteli\razdelqnenachislonaprostimnojiteli\bin\Debug\razdelqnenachislonaprostimnojiteli.exe
+c:\users\user\documents\visual studio 2015\Projects\razdelqnenachislonaprostimnojiteli\razdelqnenachislonaprostimnojiteli\bin\Debug\razdelqnenachislonaprostimnojiteli.pdb
+c:\users\user\documents\visual studio 2015\Projects\razdelqnenachislonaprostimnojiteli\razdelqnenachislonaprostimnojiteli\obj\Debug\razdelqnenachislonaprostimnojiteli.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\razdelqnenachislonaprostimnojiteli\razdelqnenachislonaprostimnojiteli\obj\Debug\razdelqnenachislonaprostimnojiteli.exe
+c:\users\user\documents\visual studio 2015\Projects\razdelqnenachislonaprostimnojiteli\razdelqnenachislonaprostimnojiteli\obj\Debug\razdelqnenachislonaprostimnojiteli.pdb
